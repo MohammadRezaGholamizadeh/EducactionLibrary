@@ -1,1 +1,23 @@
-# EducactionLibrary
+# Extensibility
+
+![Page!](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/1.png)
+![Page2](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/2.png)
+![Page3](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/3.png)
+![Page4](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/4.png)
+![Page5](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/5.png)
+![Page6](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/6.png)
+![Page7](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/7.png)
+![Page8](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/8.png)
+![Page9](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/9.png)
+![Page10](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/10.png)
+![Page11](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/11.png)
+![Page12](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/12.png)
+![Page13](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/13.png)
+![Page14](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/14.png)
+![Page15](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/15.png)
+![Page16](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/16.png)
+![Page17](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/17.png)
+![Page18](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/18.png)
+![Page19](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/19.png)
+![Page20](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Extensibility/Files/20.png)
+
