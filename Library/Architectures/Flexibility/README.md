@@ -1,1 +1,21 @@
-# EducactionLibrary
+# Flexibility
+
+![Page!](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/1.png)
+![Page2](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/2.png)
+![Page3](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/3.png)
+![Page4](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/4.png)
+![Page5](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/5.png)
+![Page6](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/6.png)
+![Page7](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/7.png)
+![Page8](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/8.png)
+![Page9](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/9.png)
+![Page10](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/10.png)
+![Page11](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/11.png)
+![Page12](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/12.png)
+![Page13](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/13.png)
+![Page14](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/14.png)
+![Page15](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/15.png)
+![Page16](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/16.png)
+![Page17](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/17.png)
+![Page18](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/Architectures/Flexibility/Files/18.png)
+
