@@ -1,4 +1,4 @@
-# Singleton Design Pattern
+# Singleton Design Pattern --- [![Back](https://img.shields.io/badge/Back-900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/CreationalDesignPatterns/README.md)
 
 ![Page1](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/DesignPatterns/CreationalDesignPatterns/Singleton/Files/1.png)
 ![Page2](https://raw.githubusercontent.com/MohammadRezaGholamizadeh/EducactionLibrary/refs/heads/main/Library/DesignPatterns/CreationalDesignPatterns/Singleton/Files/2.png)
