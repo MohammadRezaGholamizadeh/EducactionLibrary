@@ -1,27 +1,13 @@
-# Architecture List Learning --- [![Back](https://img.shields.io/badge/Back-900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/README.md)
+# CreationalDesignPatterns List Learning --- [![Back](https://img.shields.io/badge/Back-900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/README.md)
 
-[![Flexibility](https://img.shields.io/badge/Flexibility-500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Flexibility/README.md)
+[![AbstractFactory](https://img.shields.io/badge/AbstractFactory-196?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/CreationalDesignPatterns/AbstractFactory/README.md)
 
-[![Extensibility](https://img.shields.io/badge/Extensibility-650?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Extensibility/README.md)
+[![Builder](https://img.shields.io/badge/Builder-654?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/CreationalDesignPatterns/Builder/README.md)
 
-[![LooseCoupling&HighCohesion](https://img.shields.io/badge/LooseCoupling&HighCohesion-250?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/LooseCoupling&HighCohesion/README.md)
+[![FactoryMethod](https://img.shields.io/badge/FactoryMethod-157?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/CreationalDesignPatterns/FactoryMethod/README.md)
 
-[![Maintainability](https://img.shields.io/badge/Maintainability-630?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Maintainability/README.md)
+[![ObjectPool](https://img.shields.io/badge/ObjectPool-875?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/CreationalDesignPatterns/ObjectPool/README.md)
 
-[![Modularity](https://img.shields.io/badge/Modularity-350?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Modularity/README.md)
+[![Prototype](https://img.shields.io/badge/Prototype-248?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/CreationalDesignPatterns/Prototype/README.md)
 
-[![Performance](https://img.shields.io/badge/Performance-152?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Performance/README.md)
-
-[![Portability](https://img.shields.io/badge/Portability-410?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Portability/README.md)
-
-[![Resilience&FaultTolerance](https://img.shields.io/badge/Resilience&FaultTolerance-360?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Resilience&FaultTolerance/README.md)
-
-[![Reuseability](https://img.shields.io/badge/Reuseability-850?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Reuseability/README.md)
-
-[![Scalability](https://img.shields.io/badge/Scalability-152?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Scalability/README.md)
-
-[![Security](https://img.shields.io/badge/Security-210?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Security/README.md)
-
-[![SOC-SeprationOfConcern](https://img.shields.io/badge/SOC(SeprationOfConcern)-346?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/SOC-SeprationOfConcern/README.md)
-
-[![Testability](https://img.shields.io/badge/Testability-674?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Testability/README.md)
+[![Singleton](https://img.shields.io/badge/Singleton-200?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/CreationalDesignPatterns/Singleton/README.md)

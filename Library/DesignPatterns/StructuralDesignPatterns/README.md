@@ -1,13 +1,15 @@
-# Architecture List Learning --- [![Back](https://img.shields.io/badge/Back-900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/README.md)
+# StructuralDesignPatterns List Learning --- [![Back](https://img.shields.io/badge/Back-900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/README.md)
 
-[![Flexibility](https://img.shields.io/badge/Flexibility-500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Flexibility/README.md)
+[![Adapter](https://img.shields.io/badge/Adapter-124?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/StructuralDesignPatterns/Adapter/README.md)
 
-[![Extensibility](https://img.shields.io/badge/Extensibility-650?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Extensibility/README.md)
+[![Bridge](https://img.shields.io/badge/Bridge-256?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/StructuralDesignPatterns/Bridge/README.md)
 
-[![LooseCoupling&HighCohesion](https://img.shields.io/badge/LooseCoupling&HighCohesion-250?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/LooseCoupling&HighCohesion/README.md)
+[![Composite](https://img.shields.io/badge/Composite-279?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/StructuralDesignPatterns/Composite/README.md)
 
-[![Maintainability](https://img.shields.io/badge/Maintainability-630?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Maintainability/README.md)
+[![Decorator](https://img.shields.io/badge/Decorator-147?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/StructuralDesignPatterns/Decorator/README.md)
 
-[![Modularity](https://img.shields.io/badge/Modularity-350?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Modularity/README.md)
+[![Facade](https://img.shields.io/badge/Facade-854?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/StructuralDesignPatterns/Facade/README.md)
 
-[![Performance](https://img.shields.io/badge/Performance-152?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/Performance/README.md)
+[![FlyWeight](https://img.shields.io/badge/FlyWeight-345?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/StructuralDesignPatterns/FlyWeight/README.md)
+
+[![Proxy](https://img.shields.io/badge/Proxy-900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/StructuralDesignPatterns/Proxy/README.md)
