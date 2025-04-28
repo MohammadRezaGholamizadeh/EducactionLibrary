@@ -7,3 +7,5 @@
 [![Architectures](https://img.shields.io/badge/Architectures-710?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Architectures/README.md)
 
 [![DesignPatterns](https://img.shields.io/badge/DesignPatterns-357?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/DesignPatterns/README.md)
+
+[![Tools](https://img.shields.io/badge/Tools-487?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadRezaGholamizadeh/EducactionLibrary/blob/main/Library/Tools/README.md)
